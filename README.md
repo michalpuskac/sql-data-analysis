@@ -125,7 +125,7 @@ sql-data-analysis-project/
 │    ├── report_customer_view.sql
 │    └── report_product_view.sql
 │
-├── docs/                                # contain summary findings, diagrams
+├── docs/                                # contain summary findings
 │   └── key_findings_summary.md          
 │
 ├── README.md                            # Project overview (see content below)
